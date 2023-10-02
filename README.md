@@ -16,7 +16,7 @@ During my time at Mission Ready, I've had the opportunity to work on some fascin
 
 Feel free to reach out, collaborate, or just have a chat about technology, coding, or making a positive impact in the world. Let's connect and make the world a better place through code! 🌟
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/HelenaMission)
+[![GitHub followers](https://img.shields.io/github/followers/HelenaMission?label=Follow&style=social)](https://github.com/HelenaMission)
 
 
 
